@@ -16,3 +16,11 @@ https://ham-myeongeun.github.io/zeroday-privacy
 
 ## 문의
 hammyeongeun@gmail.com
+
+## 계정 삭제 요청
+
+계정 및 관련 데이터 삭제를 원하시면 아래 이메일로 요청해 주세요.
+
+**이메일:** hammyeongeun@gmail.com
+
+삭제 요청 시 이메일 제목을 "제로데이 계정 삭제 요청"으로 보내주시면 7일 이내에 처리됩니다.
