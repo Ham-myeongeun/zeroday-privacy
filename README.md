@@ -1,5 +1,6 @@
 # zeroday-privacy
 # 제로데이 개인정보처리방침
+https://ham-myeongeun.github.io/zeroday-privacy
 
 최종 수정일: 2026년 5월 14일
 
